@@ -10,7 +10,7 @@ h1,
 .cart-container {
     padding: 0% 5%;
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(3, 1fr);
     margin-top: 50px;
     gap: 20px;
 }
